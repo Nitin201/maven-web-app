@@ -87,7 +87,13 @@ Jenkins must have Docker and kubectl configured
 
 🖼️ Application Screenshot
 
-📝 Notes
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-07 124139" src="https://github.com/user-attachments/assets/94f6219c-ccbf-44ed-a6eb-cbcaa1e9bd95" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-07 124040" src="https://github.com/user-attachments/assets/f792a87d-5357-439d-b1f7-caeab13d9fc1" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-07 124201" src="https://github.com/user-attachments/assets/8ef98380-c7c3-4eb6-9496-fd77ad856969" />
+
 Ensure no other service uses port 8080 when running Docker.
 
 Scale nodes in EKS if pods remain in Pending state.
