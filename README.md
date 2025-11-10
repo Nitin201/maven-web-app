@@ -11,8 +11,8 @@
 This repository contains a simple **Java Maven web application** that is:
 - Containerized using **Docker**  
 - Deployed on **AWS EKS Kubernetes cluster**  
-- Integrated with **Jenkins CI/CD pipeline**  
-
+- Integrated with **Jenkins CI/CD pipeline**
+- 
 The project demonstrates a complete DevOps workflow: build, containerize, and deploy.
 
 ---
