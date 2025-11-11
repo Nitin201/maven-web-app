@@ -89,7 +89,6 @@ Jenkins must have Docker and kubectl configured
 
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-07 124201" src="https://github.com/user-attachments/assets/3b9447ff-8cfc-4a41-9dd4-d1d1b3d3f614" />
 
 Ensure no other service uses port 8080 when running Docker.
 
